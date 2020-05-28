@@ -1,0 +1,7 @@
+#learning the basics of Julia before data mining
+
+function helloworld()
+    println("hello world")
+end
+
+helloworld()
